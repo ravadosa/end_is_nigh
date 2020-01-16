@@ -5,5 +5,6 @@ Desperate attempt to understand what should have been understood long back
 
 - [C++](basic/cpp.md)
 - [Memory](basic/memory.md)
+- [OS](basic/os.md)
 - [Build process](basic/build.md)
 - [OOP](basic/oop.md)
