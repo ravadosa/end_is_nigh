@@ -10,4 +10,4 @@ Desperate attempt to understand what should have been understood long back
 - [OOP](basic/oop.md)
 
 # Programming
-- [Exponential Hello](cpp/code)
+- [Exponential Hello](code/exponential_hello)
