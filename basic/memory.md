@@ -1,4 +1,4 @@
-#Memory
+# Memory
   - What does malloc & free do? How do they work?
   - What's the difference between malloc/free and new/delete?
   - What does calloc do?
