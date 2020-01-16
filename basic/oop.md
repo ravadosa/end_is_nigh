@@ -1,0 +1,16 @@
+# Object Oriented programming
+  - What is the difference between encapsulation and data hiding?
+  - What is composition and aggregation?
+  - What does it mean to say 'Program to interface not implementation'?
+  - What is RTTI? What are the constructs in C++ that use this feature? 
+  - What are the dis-advantages of RTTI?
+  - What is copy constructor? when does it get invoked?
+  - What happens if copy constructor takes its parameter by value?
+  - What's the difference between copy constructor and an assignment operator?
+  - Can copy constructor and assignment operators be overloaded?
+  - Can operator overloading functions themselves be overloaded?
+  - How does function overloading works?
+  - What is function hiding?
+  - What is move constructor? what is a move assignment operators? when do they get invoked? [C++11]
+  - What is friend class? When does it make sense to use one?
+  - What's an inner class? How does it work? Can it access private members of enclosing class?
