@@ -1,0 +1,16 @@
+# Build
+  - What are the typical steps involved in building a C++ program?
+  - When is the output of compilation step?
+  - What does linking do?
+  - What is position independent code? When should it be used?
+  - What is a declaration (of function, variable, class)?
+  - What is a definition (of function, variable, class)?
+  - What is the One Definition Rule of C++?
+  - Which part of build catches the violation of one definition rule?
+  - How to define a static member variable? Why is it done only in CPP file?
+  - What is compilation unit?
+  - If a project has 2 cpp files that include 10 header files, how many files are compiled?
+  - What's the difference between a static library and a dynamic library?
+  - What is a stub library of a dynamic library? What does it contains?
+  - What are the different ways of exporting symbols from DLLs (Windows only)?
+  - What is a make file?
