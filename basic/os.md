@@ -1,0 +1,13 @@
+# Operating Systems
+  - What is a process? 
+  - When an executable is launched, what happens?
+  - What is a kernel of an operating system? 
+  - What are micro kernel and monolithic kernel? Which is better ;)?
+  - What is the purpose of a device driver?
+  - What is IPC? what are different mechanisms used?
+  - What's the difference between a thread and a process?
+  - If a process allocates large memory and crashes without freeing it, what happens to that memory?
+  - What's a PCB? what are its typical contents?
+  - Why did Kattappa kill Bahubali?
+  - What is process context switching?
+  - When a program loads a dynamic library what happens?
