@@ -11,3 +11,11 @@ Desperate attempt to understand what should have been understood long back
 
 # Programming
 - [Exponential Hello](code/exponential_hello)
+
+# In Depth
+
+# External Links
+
+
+## Note
+If there is something to discuss, create an issue.
