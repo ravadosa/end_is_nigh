@@ -8,3 +8,6 @@ Desperate attempt to understand what should have been understood long back
 - [OS](basic/os.md)
 - [Build process](basic/build.md)
 - [OOP](basic/oop.md)
+
+# Programming
+- [Exponential Hello](cpp/code)
