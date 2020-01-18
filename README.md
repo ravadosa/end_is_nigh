@@ -8,7 +8,8 @@ Desperate attempt to understand what should have been understood long back
 - [OS](basic/os.md)
 - [Build process](basic/build.md)
 - [OOP](basic/oop.md)
-- [Alorithms and Data structures](basic/algo-ds.md)
+- [Algorithms and Data structures](basic/algo-ds.md)
+- [System Design](basic/systemDesign.md)
 
 # Programming
 - [Exponential Hello](code/exponential_hello)
