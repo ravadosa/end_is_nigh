@@ -29,7 +29,7 @@
   - What the 'virtual' keyword mean when inheriting a base class?
   - How virtual function call works in case of single inheritance?
   - How virtual function call works in case of multiple inheritance?
-  - What is the diamond problem of inheritance? 
+  - What is the “Dreaded Diamond/Diamond Problem” in case of multiple inheritance? 
   - When multiple inheritance is useful? (Interfaces)
   
 ## Templates
@@ -52,3 +52,7 @@
   - Why extern keyword is used?
   - What is the difference between a function defined inside a 'extern C' block and outside?
   - Why name mangling is required in C++?
+  
+## C++11/14/17
+
+## Multi-Threading WRT to c++ APIs
